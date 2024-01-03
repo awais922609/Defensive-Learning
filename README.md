@@ -1,4 +1,5 @@
 # Defensive Cybersecurity Learning
+![Theme Image of the repo]([https://github.com/awais922609/Defensive-Learning/blob/main/Defensive_Learning.png])
 
 ## Welcome to the Defensive Cybersecurity Learning Repository!
 
